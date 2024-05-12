@@ -1,7 +1,7 @@
-# Jaime-Kratz-Library-Software
-In this project i volunteered myself to develop the library software of my school , Jaime Kratz, a Brazilian private school of Campinas, São Paulo. This is a simple library software that has a bunch of useful functions.
+Jaime-Kratz Library Project
+	In this project, I volunteered myself to develop the library software of my school, Jaime Kratz, a Brazilian private school in Campinas, São Paulo. This is a simple library software that has a bunch of useful functions.
 
-I wrote the whole code of the program in Python. I used the libraries: 
+	I wrote the whole code of the program in Python. I used the libraries: 
 		
 		- Tkinter
 		- DateTime

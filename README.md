@@ -14,6 +14,7 @@ Jaime-Kratz Library Project
 		
 		- Search books
 		- Rent book - The user uses the search system to search a book, next the app shows a table with the search results and he clicks on the book that he wants. After this, he's asked for his name, his room number, or role in the school, and finally, the book is rented.
+  		- Renew loan - The user inserts his name and the loan is renewed.
 		- Return book - In this system, the user can only borrow one book at a time, so he's asked just his name and then the book is returned.
 		- Back to main - The user is returned to the main screen of the software.
 		

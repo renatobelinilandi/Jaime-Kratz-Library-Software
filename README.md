@@ -1,5 +1,5 @@
-Library Management System
-Welcome to the Library Management System!
+Jaime Kratz Library Management System
+Welcome to the Jaime Kratz Library Management System!
 
 Description:
 This program was developed to facilitate the management of school libraries, allowing the registration, borrowing and return of books in a simple and efficient way. It was created to help students, staff and administrators manage their book collection with practicality and speed.

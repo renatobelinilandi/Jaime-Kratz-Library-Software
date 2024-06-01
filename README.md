@@ -1,30 +1,32 @@
-Jaime-Kratz Library Project
-	In this project, I volunteered myself to develop the library software of my school, Jaime Kratz, a Brazilian private school in Campinas, São Paulo. This is a simple library software that has a bunch of useful functions.
+Library Management System
+Welcome to the Library Management System!
 
-	I wrote the whole code of the program in Python. I used the libraries: 
-		
-		- Tkinter
-		- DateTime
-		- os
-		- JSON
-		- Unicode data
-		
-		The software has two parts, the renter area and the administrator area.
-		In the renter area, we have the functionalities:
-		
-		- Search books
-		- Rent book - The user uses the search system to search a book, next the app shows a table with the search results and he clicks on the book that he wants. After this, he's asked for his name, his room number, or role in the school, and finally, the book is rented.
-  		- Renew loan - The user inserts his name and the loan is renewed.
-		- Return book - In this system, the user can only borrow one book at a time, so he's asked just his name and then the book is returned.
-		- Back to main - The user is returned to the main screen of the software.
-		
-		In the administrator area, we have these functions:
-		(the user needs a password to access the admin. func.)
-		
-		- Add book - The user is asked if he wants to add a new book or just add some units of a book that already exists in the database.
-		- Remove book - Work in the same way as the previous function.
-		- Search active loans - The user uses the search system to search for the title, renter's name, or room number or role.
-		- Show overdue books - The software works with a 14-day loan system, when the time has expired the loan data is shown in this function.
-		- Back to main
-		
-		The software uses a JSON database system.
+Description
+This program was developed to facilitate the management of school libraries, allowing for the registration, lending, and return of books in a simple and efficient manner. It was created to help students, staff, and administrators manage the library's collection with ease and speed.
+
+Features
+Book Registration: Add new books to the library collection.
+Book Removal: Remove books from the collection, either completely or by units.
+Book Lending: Lend books to students and staff.
+Book Return: Process the return of borrowed books.
+Loan Renewal: Renew the due date for borrowed books.
+Book Search: Search for books by title.
+Active Loans Management: Check all active loans.
+Overdue Books Check: List books that are overdue.
+How to Use
+Initialization: Run the program to open the graphical interface.
+User Area: Access the available functions for students and staff.
+Admin Panel: Access administrative functions with an admin password.
+Add Book: Use the function to add new books to the collection.
+Remove Book: Remove books from the collection using the removal function.
+Lend Book: Lend books by following the on-screen instructions.
+Return Book: Return borrowed books using the return function.
+Renew Loan: Renew the due date for borrowed books.
+Credits
+This program was developed entirely voluntarily and alone by Renato Belini Landi. The idea came from the need to improve the management of the school library's collection and facilitate access to books for all members of the school community.
+
+Contact
+If you have any questions, suggestions, or want to report a problem, please contact:
+
+Renato Belini Landi
+Email: [renatobelinilandi@gmail.com]

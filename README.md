@@ -2,7 +2,7 @@ Library Management System
 Welcome to the Library Management System!
 
 Description:
-This program was developed to facilitate the management of school libraries, allowing for the registration, lending, and return of books in a simple and efficient manner. It was created to help students, staff, and administrators manage the library's collection with ease and speed.
+This program was developed to facilitate the management of school libraries, allowing the registration, borrowing and return of books in a simple and efficient way. It was created to help students, staff and administrators manage their book collection with practicality and speed.
 
 Features:
 * Book Registration: Add new books to the library collection.
@@ -25,7 +25,7 @@ How to Use:
 * Renew Loan: Renew the due date for borrowed books.
 
 Credits:
-This program was developed and implemented in the library of Jaime Kratz School, a school located in the city of Campinas, São Paulo, Brazil. It was created entirely voluntarily and alone by Renato Belini Landi. The idea arose from the need to improve the management of the school's library collection and facilitate access to books for all members of the school community.
+This program was developed and applied in the library of the Jaime Kratz school, a school located in the city of Campinas, São Paulo, Brazil. It was created completely voluntarily and alone by Renato Belini Landi. The idea arose from the need to create a school library collection management system, which did not exist, and facilitate access to books for all members of the school community.
 
 Contact
 If you have any questions, suggestions, or want to report a problem, please contact:

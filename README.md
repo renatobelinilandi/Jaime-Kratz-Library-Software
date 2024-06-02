@@ -1,4 +1,3 @@
-Jaime Kratz Library Management System
 Welcome to the Jaime Kratz Library Management System!
 
 Description:

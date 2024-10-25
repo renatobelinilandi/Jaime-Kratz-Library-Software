@@ -2,7 +2,7 @@ English Version:
 Jaime Kratz Library Management System
 
 About the Developer:
-Hello, my name is Renato Belini Landi, I am 17 years old, and I am from Campinas, São Paulo, Brazil. I am passionate about mathematics, data, and programming. I developed this software to help my school, Jaime Kratz, a private school in Campinas, put its large library back into operation. The library had been inactive for many years due to the lack of a management system. Using my programming skills, completely voluntarily and on my own, I offered to develop the necessary software.
+Hello, my name is Renato Belini Landi, I am 18 years old, and I am from Campinas, São Paulo, Brazil. I am passionate about mathematics, data, and programming. I developed this software to help my school, Jaime Kratz, a private school in Campinas, put its large library back into operation. The library had been inactive for many years due to the lack of a management system. Using my programming skills, completely voluntarily and on my own, I offered to develop the necessary software.
 
 Motivation:
 The motivation for developing this software came from the evident need to have an efficient management system for my school's library. The library has a vast collection of books that were not being utilized due to the lack of an adequate system. This software was developed to be completely self-sufficient, without the need for external resources or an internet connection. It is intuitive and can be used by anyone without the need for a professional librarian.
@@ -41,7 +41,7 @@ Versão em Português:
 Sistema de Gerenciamento de Biblioteca Jaime Kratz
 
 Sobre o Desenvolvedor:
-Olá, meu nome é Renato Belini Landi, tenho 17 anos e sou de Campinas, São Paulo, Brasil. Sou apaixonado por matemática, dados e programação. Desenvolvi este software para ajudar minha escola, Jaime Kratz, uma escola privada de Campinas, a colocar sua grande biblioteca para funcionar novamente. A biblioteca estava há muitos anos parada pois não havia um sistema de gestão. Utilizando meus conhecimentos de programação, de forma completamente voluntária e sozinho, me ofereci para desenvolver o software necessário.
+Olá, meu nome é Renato Belini Landi, tenho 18 anos e sou de Campinas, São Paulo, Brasil. Sou apaixonado por matemática, dados e programação. Desenvolvi este software para ajudar minha escola, Jaime Kratz, uma escola privada de Campinas, a colocar sua grande biblioteca para funcionar novamente. A biblioteca estava há muitos anos parada pois não havia um sistema de gestão. Utilizando meus conhecimentos de programação, de forma completamente voluntária e sozinho, me ofereci para desenvolver o software necessário.
 
 Motivação:
 A motivação para desenvolver este software veio da necessidade evidente de ter um sistema de gestão eficiente para a biblioteca da minha escola. A biblioteca possui uma vasta coleção de livros que não estavam sendo utilizados devido à falta de um sistema adequado. Este software foi desenvolvido para ser completamente autossuficiente, sem a necessidade de recursos externos ou conexão à internet. É intuitivo e pode ser utilizado por qualquer pessoa, sem a necessidade de um bibliotecário profissional.

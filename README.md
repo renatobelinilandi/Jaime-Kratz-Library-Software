@@ -30,7 +30,7 @@ Open-Source:
 The code for this software is open-source to allow for future maintenance and improvements. It is available in this GitHub repository: https://github.com/renatobelinilandi/Jaime-Kratz-Library-Software
 
 Credits:
-This software was developed by Renato Belini Landi, a 17-year-old student passionate about programming, mathematics, and data. I thank everyone who supported and encouraged me during the development of this project.
+This software was developed by Renato Belini Landi, a student passionate about programming, mathematics, and data. I thank everyone who supported and encouraged me during the development of this project.
 
 Contact:
 renatobelinilandi@gmail.com
@@ -69,7 +69,7 @@ Código Aberto:
 O código deste software é open-source para permitir sua futura manutenção e melhorias. Ele está disponível neste repositório do GitHub: https://github.com/renatobelinilandi/Jaime-Kratz-Library-Software
 
 Créditos:
-Este software foi desenvolvido por Renato Belini Landi, um estudante de 17 anos apaixonado por programação, matemática e dados. Agradeço a todos que me apoiaram e incentivaram durante o desenvolvimento deste projeto.
+Este software foi desenvolvido por Renato Belini Landi, um estudante apaixonado por programação, matemática e dados. Agradeço a todos que me apoiaram e incentivaram durante o desenvolvimento deste projeto.
 
 Contato:
 renatobelinilandi@gmail.com
